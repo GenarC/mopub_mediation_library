@@ -1,0 +1,3 @@
+rootProject.name = "mopub_mediaton_adapter"
+include ':app'
+include ':mopub_mediation_library'
