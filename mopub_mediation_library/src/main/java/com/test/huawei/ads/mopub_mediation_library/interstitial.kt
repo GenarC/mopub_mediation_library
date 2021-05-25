@@ -1,10 +1,10 @@
-package com.hmscl.huawei.ads.mediation_adapter_mopub
+package com.test.huawei.ads.mopub_mediation_library
 
 import android.app.Activity
 import android.content.Context
 import android.text.TextUtils
-import com.hmscl.huawei.ads.mediation_adapter_mopub.utils.HuaweiAdsAdapterConfiguration
-import com.hmscl.huawei.ads.mediation_adapter_mopub.utils.HuaweiAdsCustomEventDataKeys
+import com.test.huawei.ads.mopub_mediation_library.utils.HuaweiAdsAdapterConfiguration
+import com.test.huawei.ads.mopub_mediation_library.utils.HuaweiAdsCustomEventDataKeys
 import com.huawei.hms.ads.*
 import com.mopub.common.LifecycleListener
 import com.mopub.common.Preconditions

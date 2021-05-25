@@ -1,4 +1,4 @@
-package com.hmscl.huawei.ads.mediation_adapter_mopub.utils
+package com.test.huawei.ads.mopub_mediation_library.utils
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import android.widget.FrameLayout
 import android.widget.ImageView
 import android.widget.TextView
-import com.hmscl.huawei.ads.mediation_adapter_mopub.native_advanced
+import com.test.huawei.ads.mopub_mediation_library.native_advanced
 import com.huawei.hms.ads.ChoicesView
 import com.huawei.hms.ads.nativead.MediaView
 import com.huawei.hms.ads.nativead.NativeView

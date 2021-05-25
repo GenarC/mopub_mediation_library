@@ -1,4 +1,4 @@
-package com.hmscl.huawei.ads.mediation_adapter_mopub.utils
+package com.test.huawei.ads.mopub_mediation_library.utils
 
 class HuaweiAdsCustomEventDataKeys {
     companion object {
