@@ -62,7 +62,7 @@ dependencies {
 //    implementation 'com.huawei.hms:ads:3.4.41.302'
     implementation 'com.huawei.hms:ads-lite:13.4.39.302'
 
-    implementation('com.mopub:mopub-sdk:5.14.0@aar') {
+    implementation('com.mopub:mopub-sdk:5.15.0@aar') {
         transitive = true
         exclude module: 'libAvid-mopub'
         exclude module: 'moat-mobile-app-kit'
